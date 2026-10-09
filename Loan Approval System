@@ -1,0 +1,31 @@
+Loan Approval System
+
+Project: IIT Madras School Connect – Data Science
+
+Overview
+
+A Python-based project that evaluates sample customer details and estimates loan eligibility using predefined rules.
+
+Features
+Accepts customer details as input
+Calculates estimated monthly EMI
+Checks credit score and monthly income
+Evaluates EMI-to-income ratio
+Displays eligibility results and reasons.
+
+Technologies Used
+Python
+Basic financial calculations
+Conditional statements and functions
+
+How to Run
+Install Python or open Google Colab.
+Run loan_approval.py.
+Enter the requested sample customer details.
+View the eligibility report.
+
+Disclaimer
+This is an educational, rule-based prototype. It does not provide actual bank loan approvals.
+
+Author
+IIT Madras School Connect – Data Science Studen
